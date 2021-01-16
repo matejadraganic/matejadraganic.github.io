@@ -1,1 +1,5 @@
-# matejadraganic.github.io
+# Repozitorij moje osobne web stranice
+
+Ovdje će se nalaziti HTML/CSS a možda i Javascript koji čini moju osobnu web stranicu. 
+
+Adresa web stranice je https://matejadraganic.github.io
